@@ -1,10 +1,2 @@
-.history
-*.sublime-*
-settings
-
-# testing stuff
-lua_modules
-luacov.*.out
-
-#local lua
-.lua
+#drawio缓存文件
+*.drawio.bkp
